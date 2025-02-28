@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hipstr (1080p)
+https://amg09501-questar-amg09501c2-stirr-us-3095.playouts.now.amagi.tv/amg09501/AMG09501C2/segmented_playlist/0/35-89-3095.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RVTV (1080p)
+https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8?checkedby:iptvcat.com
